@@ -25,7 +25,7 @@ SECRET_KEY = 'atxi6*t=p$%(^kn4#9z5dfhe+yuo9^-q2j$nnyd0h2rnwu=-jn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["0.0.0.0"]
 
 
 # Application definition
